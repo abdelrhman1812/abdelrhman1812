@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **my experience with React Js or any thing related to front end developer**
 
-- 📄 Know about my experiences [soon](soon)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1615VYVPyLfP7NIsLW-3EoUDk3mkBgmCz/view?usp=sharing" target="blank">CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
